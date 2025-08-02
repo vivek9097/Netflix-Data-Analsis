@@ -35,9 +35,13 @@ datetime – Handling dates and time
 ✅ How many TV-14 rated movies were made in Canada?
 
 ## Visualizations Included
+
 Bar plots for yearly release trends
+
 Heatmap for missing values
+
 Count plots for category distribution
+
 Filtering using pandas for specific insights
 
 ### Acknowledgments
